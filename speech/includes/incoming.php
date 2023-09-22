@@ -96,7 +96,7 @@ if (isset($_POST['inputField'])) {
             } elseif ($word == "jarvis") { //CHAT GPT 
 
                 // API key
-                $apiKey = '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';
+                $apiKey = 'Chatgpt api key here';
 
                 $apiEndpoint = "https://api.openai.com/v1/chat/completions";
 
